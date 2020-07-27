@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="21px" viewBox="0 0 12 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Chevron</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driver-App/SignUp/Username1" transform="translate(-9.000000, -56.000000)" fill="#FFFFFF">
+            <g id="Navigation-Bar-Copy-3" transform="translate(0.000000, 44.000000)">
+                <g id="Left-Action">
+                    <path d="M9.29215185,23.212775 C8.90261605,22.8187788 8.90261605,22.1822446 9.29215185,21.787225 L18.5371349,12.4275115 C19.0994648,11.8574962 20.0143745,11.8574962 20.5777032,12.4275115 C21.1400331,12.9975269 21.1400331,13.9226505 20.5777032,14.4926659 L12.6691276,22.5005117 L20.5777032,30.5063108 C21.1400331,31.0773495 21.1400331,32.0024731 20.5777032,32.5724885 C20.0143745,33.1425038 19.0994648,33.1425038 18.5371349,32.5724885 L9.29215185,23.212775 Z" id="Chevron"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

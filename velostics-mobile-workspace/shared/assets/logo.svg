@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="52px" viewBox="0 0 77 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Driver-App/SignUp/Username1" transform="translate(-149.000000, -107.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(149.000000, 107.000000)">
+                <text id="Velostics" font-family="Helvetica" font-size="19" font-weight="normal">
+                    <tspan x="0.986083984" y="51">Velostics</tspan>
+                </text>
+                <path d="M36.6474934,21.9395449 C38.7504197,24.6410305 40.6130322,24.6860552 42.2353311,22.0746192 C43.8576299,19.4631832 46.9655538,13.5649398 51.5591027,4.37988895 C52.8238351,1.45996298 51.3676141,0 47.1904395,0 C43.013265,0 39.4989496,0 36.6474934,0 C44.1783298,0.398539468 47.0574656,2.57230317 45.2849008,6.52129111 C43.512336,10.470279 41.9825144,13.5385581 40.6954358,15.7261282 C40.1656941,16.8049636 39.6005488,16.8049636 39,15.7261282 C38.3994512,14.6472928 36.3750532,10.3249159 32.926806,2.75899763 C31.8090932,1.13810631 29.5001579,0.327660648 26,0.327660648 L36.6474934,21.9395449 Z" id="Path-14-Copy"></path>
+            </g>
+        </g>
+    </g>
+</svg>

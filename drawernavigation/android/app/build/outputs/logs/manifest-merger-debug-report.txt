@@ -1,0 +1,518 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-screens] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-react-native-adapter] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/444492d5a6d13a28c7db54976b98cd59/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/64c102ec898277aa34766740316cc012/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/fc5a4294767ccc82cdb2c9fb724ad8c3/AndroidManifest.xml:17:1-24:12
+MERGED from [:expo-app-loader-provider] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-linear-gradient] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:expo-sqlite] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-web-browser] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/4ebdaa64fb7f08b275ec3ed4baae204c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/5f32fa880f2b35b4bfb12fc7e8ac1d29/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/1f54ac1565cc9fe2ccff919265fdba59/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/71d21a00815d2b7805714c1900703419/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5d342970d9eefb1c3381866e0dc904e0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/6806b4bfe80b4d5418222b45098791e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/ea9d7a2f5d6b466f53cadb7893484578/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/fragment-1.2.1.aar/08e4ab387b82c66bdf56f39939ee6287/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/716f2d76394a8e6cb8bde4594dc123a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/bce97f1505f51b7b38645847e68ebda5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/ce81409e89b588f85e37d256469f7252/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/98606f9eba649576491a88f32b0632ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/aba1f5f7e62e995af184d0595a7579e4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/028870e482aec2d58a75820d5dfe94ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/5f4f298665813331c8dccdab37eb3747/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/488f3f014725c7833861846ca94de8d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/4862bb822acc99deaaf2d3c7af1c1aac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/58559c47107f0837b57b5dad0eb49ae4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/41a473966d80f823c415936175c29885/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/02973490887bbbcd31be7a224c5dd8ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ac3b37ad2271c098f00e24dffd5da96a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/712e128a18a3d9adbcc91d37b1176f69/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/1f6dd19085b57aaaf4b98faf265d893a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f7940384a61e4d4c1edb3c8a51572d14/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4ba95f8e8c3ba916d708552d81d15304/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cb109f8480f6dcedc80d5075abc2e281/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/746c9b52ab4d880645e3d33ad607a69e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/cc5ee8e2e06337dbe1d0b6413a753a6f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/a887295e2f84771a7361648082e3a889/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7119dce968b895ffb74472a91b65c1bc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9bd97fe514bc66763398ba28d1fd173f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/7ece84df17513a3831011ed74cea4254/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/4a21f8232cf7cac3aa2c6770c095cef1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4bf70f3d829fd39421b308e6101b3188/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/49a428810504c10d54abff4e70f7b2bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c9c2cf70c3ef0041de646f28955d3a3d/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/c952a19d2889fd8534f13ac53d2f18b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/77035d1261546b19d59d414de6ba3ac3/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-2.2.0.aar/af24e5f458fa3e8f14f88b1f83331b2d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/f506cb85c60f30cafa905e69c78d059b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8ce563d7cb3be93734f93d996a081477/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ec8545d67fd4cc12dddb5bf460ef9145/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/0f4e3d980e1f4eef672e4bef52f287c3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1737392dc2368d686b2bf7a0ebef59ff/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/6f630843694e815a950785ec363c6969/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/2680404a74c396c08a1106bd18dbd270/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/0c4ab8661c76f0c447d6fd513f7a79c4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e6318f264753c5eafbe9047b5bb9cbf4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/e7659506e829b6fd9a6f24895005bfad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c0917c36b8e177840e25d3edca02eca3/AndroidManifest.xml:17:1-22:12
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:2:1-30:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/bc9c3336bb14e8396685270d6535ca2d/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:17:5-79
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/444492d5a6d13a28c7db54976b98cd59/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/444492d5a6d13a28c7db54976b98cd59/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/64c102ec898277aa34766740316cc012/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/64c102ec898277aa34766740316cc012/AndroidManifest.xml:22:5-20
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-19:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/5f32fa880f2b35b4bfb12fc7e8ac1d29/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/5f32fa880f2b35b4bfb12fc7e8ac1d29/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/1f54ac1565cc9fe2ccff919265fdba59/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/1f54ac1565cc9fe2ccff919265fdba59/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/71d21a00815d2b7805714c1900703419/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/71d21a00815d2b7805714c1900703419/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5d342970d9eefb1c3381866e0dc904e0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5d342970d9eefb1c3381866e0dc904e0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ac3b37ad2271c098f00e24dffd5da96a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ac3b37ad2271c098f00e24dffd5da96a/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/712e128a18a3d9adbcc91d37b1176f69/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/712e128a18a3d9adbcc91d37b1176f69/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c9c2cf70c3ef0041de646f28955d3a3d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c9c2cf70c3ef0041de646f28955d3a3d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/77035d1261546b19d59d414de6ba3ac3/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/77035d1261546b19d59d414de6ba3ac3/AndroidManifest.xml:24:5-25:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:18:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c9c2cf70c3ef0041de646f28955d3a3d/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.mykeep.MainActivity
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-screens] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-permissions/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/444492d5a6d13a28c7db54976b98cd59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.5.aar/444492d5a6d13a28c7db54976b98cd59/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/64c102ec898277aa34766740316cc012/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/material-1.1.0.aar/64c102ec898277aa34766740316cc012/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/fc5a4294767ccc82cdb2c9fb724ad8c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/fc5a4294767ccc82cdb2c9fb724ad8c3/AndroidManifest.xml:20:5-22:41
+MERGED from [:expo-app-loader-provider] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-linear-gradient] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-sqlite] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-sqlite/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-web-browser] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-web-browser/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/4ebdaa64fb7f08b275ec3ed4baae204c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/4ebdaa64fb7f08b275ec3ed4baae204c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/5f32fa880f2b35b4bfb12fc7e8ac1d29/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-glide-4.9.0.aar/5f32fa880f2b35b4bfb12fc7e8ac1d29/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/1f54ac1565cc9fe2ccff919265fdba59/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/1f54ac1565cc9fe2ccff919265fdba59/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/71d21a00815d2b7805714c1900703419/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/71d21a00815d2b7805714c1900703419/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5d342970d9eefb1c3381866e0dc904e0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/5d342970d9eefb1c3381866e0dc904e0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/6806b4bfe80b4d5418222b45098791e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/6806b4bfe80b4d5418222b45098791e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/ea9d7a2f5d6b466f53cadb7893484578/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/ea9d7a2f5d6b466f53cadb7893484578/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/fragment-1.2.1.aar/08e4ab387b82c66bdf56f39939ee6287/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/fragment-1.2.1.aar/08e4ab387b82c66bdf56f39939ee6287/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/716f2d76394a8e6cb8bde4594dc123a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/browser-1.0.0.aar/716f2d76394a8e6cb8bde4594dc123a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/bce97f1505f51b7b38645847e68ebda5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/bce97f1505f51b7b38645847e68ebda5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/ce81409e89b588f85e37d256469f7252/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/ce81409e89b588f85e37d256469f7252/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/98606f9eba649576491a88f32b0632ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/98606f9eba649576491a88f32b0632ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/aba1f5f7e62e995af184d0595a7579e4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/aba1f5f7e62e995af184d0595a7579e4/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/028870e482aec2d58a75820d5dfe94ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/028870e482aec2d58a75820d5dfe94ae/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/5f4f298665813331c8dccdab37eb3747/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/5f4f298665813331c8dccdab37eb3747/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/488f3f014725c7833861846ca94de8d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/488f3f014725c7833861846ca94de8d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/4862bb822acc99deaaf2d3c7af1c1aac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/4862bb822acc99deaaf2d3c7af1c1aac/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/58559c47107f0837b57b5dad0eb49ae4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/58559c47107f0837b57b5dad0eb49ae4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/41a473966d80f823c415936175c29885/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/41a473966d80f823c415936175c29885/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/02973490887bbbcd31be7a224c5dd8ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/02973490887bbbcd31be7a224c5dd8ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ac3b37ad2271c098f00e24dffd5da96a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ac3b37ad2271c098f00e24dffd5da96a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/712e128a18a3d9adbcc91d37b1176f69/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-gifdecoder-4.9.0.aar/712e128a18a3d9adbcc91d37b1176f69/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/1f6dd19085b57aaaf4b98faf265d893a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/1f6dd19085b57aaaf4b98faf265d893a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f7940384a61e4d4c1edb3c8a51572d14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/f7940384a61e4d4c1edb3c8a51572d14/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4ba95f8e8c3ba916d708552d81d15304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/4ba95f8e8c3ba916d708552d81d15304/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cb109f8480f6dcedc80d5075abc2e281/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/cb109f8480f6dcedc80d5075abc2e281/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/746c9b52ab4d880645e3d33ad607a69e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/746c9b52ab4d880645e3d33ad607a69e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/cc5ee8e2e06337dbe1d0b6413a753a6f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/activity-1.1.0.aar/cc5ee8e2e06337dbe1d0b6413a753a6f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/a887295e2f84771a7361648082e3a889/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/a887295e2f84771a7361648082e3a889/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7119dce968b895ffb74472a91b65c1bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/7119dce968b895ffb74472a91b65c1bc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9bd97fe514bc66763398ba28d1fd173f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/9bd97fe514bc66763398ba28d1fd173f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/7ece84df17513a3831011ed74cea4254/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/7ece84df17513a3831011ed74cea4254/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/4a21f8232cf7cac3aa2c6770c095cef1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/4a21f8232cf7cac3aa2c6770c095cef1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4bf70f3d829fd39421b308e6101b3188/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/4bf70f3d829fd39421b308e6101b3188/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/49a428810504c10d54abff4e70f7b2bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/49a428810504c10d54abff4e70f7b2bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c9c2cf70c3ef0041de646f28955d3a3d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/c9c2cf70c3ef0041de646f28955d3a3d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/c952a19d2889fd8534f13ac53d2f18b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/c952a19d2889fd8534f13ac53d2f18b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/77035d1261546b19d59d414de6ba3ac3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/77035d1261546b19d59d414de6ba3ac3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-2.2.0.aar/af24e5f458fa3e8f14f88b1f83331b2d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-savedstate-2.2.0.aar/af24e5f458fa3e8f14f88b1f83331b2d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/f506cb85c60f30cafa905e69c78d059b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.2.0.aar/f506cb85c60f30cafa905e69c78d059b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8ce563d7cb3be93734f93d996a081477/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/8ce563d7cb3be93734f93d996a081477/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ec8545d67fd4cc12dddb5bf460ef9145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/ec8545d67fd4cc12dddb5bf460ef9145/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/0f4e3d980e1f4eef672e4bef52f287c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/0f4e3d980e1f4eef672e4bef52f287c3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1737392dc2368d686b2bf7a0ebef59ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/1737392dc2368d686b2bf7a0ebef59ff/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/6f630843694e815a950785ec363c6969/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/6f630843694e815a950785ec363c6969/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/2680404a74c396c08a1106bd18dbd270/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.2.0.aar/2680404a74c396c08a1106bd18dbd270/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/0c4ab8661c76f0c447d6fd513f7a79c4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/core-runtime-2.1.0.aar/0c4ab8661c76f0c447d6fd513f7a79c4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e6318f264753c5eafbe9047b5bb9cbf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/e6318f264753c5eafbe9047b5bb9cbf4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/e7659506e829b6fd9a6f24895005bfad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/e7659506e829b6fd9a6f24895005bfad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c0917c36b8e177840e25d3edca02eca3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/c0917c36b8e177840e25d3edca02eca3/AndroidManifest.xml:20:5-44
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/bc9c3336bb14e8396685270d6535ca2d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/bc9c3336bb14e8396685270d6535ca2d/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-77
+	android:name
+		ADDED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-74
+service#expo.modules.location.services.LocationTaskService
+ADDED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:expo-location] /Users/crownsatck/Desktop/dev/React/rnative/drawernavigation/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/b2aa0898fd1387b956456a6c727ccc51/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/055dec7bd8432a76aab525adbc8fd6f8/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:15:5-98
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:15:22-95
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:16:22-91
+service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:20:13-132
+service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:23:13-127
+service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
+ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [io.nlopez.smartlocation:library:3.2.11] /Users/crownsatck/.gradle/caches/transforms-1/files-1.1/jetified-library-3.2.11.aar/2d3944a937a4a65360692170f672c40a/AndroidManifest.xml:26:13-120

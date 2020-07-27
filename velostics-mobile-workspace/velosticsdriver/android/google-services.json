@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "213728329084",
+    "firebase_url": "https://velostics-driver.firebaseio.com",
+    "project_id": "velostics-driver",
+    "storage_bucket": "velostics-driver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213728329084:android:0fe4ac8ac7e626ec7d78f9",
+        "android_client_info": {
+          "package_name": "com.chaione.velosticsdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213728329084-bnu1t8soja9mvuq7mgf3324hhcv6gmdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaione.velosticsdriver",
+            "certificate_hash": "8cb990afc79a21730b4d644e858aef4425e72945"
+          }
+        },
+        {
+          "client_id": "213728329084-12s513jgtjini3h7u1rdcmb9anpfts10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chaione.velosticsdriver",
+            "certificate_hash": "5e7589c194d50e45af8b597e85ffac91b0d0b9e8"
+          }
+        },
+        {
+          "client_id": "213728329084-q47ej4et6dgrf6bu85cp7307gqpe4ian.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi0_yT1vbAqzUxKBsK7bQ3zN1dm49Q9u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213728329084-q47ej4et6dgrf6bu85cp7307gqpe4ian.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213728329084-e34rsbn30shk72p0r7bv8dslh6hq445o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chaione.velostics.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

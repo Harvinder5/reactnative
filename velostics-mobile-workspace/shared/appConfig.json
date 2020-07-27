@@ -1,0 +1,7 @@
+{
+  "driver": {
+    "analytics": {
+      "activeEnvironments": ["staging", "production"]
+    }
+  }
+}

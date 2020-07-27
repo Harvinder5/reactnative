@@ -1,0 +1,61 @@
+{
+  "name": "AwesomeApp",
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "start": "react-native start",
+    "test": "jest",
+    "code-push-android-production": "ppcenter codepush release-react -a harvinder.singh-crownstack.com/AwesomeApp -d Production",
+    "code-push-ios-production": "appcenter codepush release-react -a harvinder.singh-crownstack.com/AwesomeApp-1 -d Production",
+    "build-android-production": "cd android && ENVFILE=.env.production ./gradlew assembleRelease",
+    "build-android-dev": "cd android && ENVFILE=.env ./gradlew assembleRelease",
+    "build-ios-staging": "ENVFILE=.env.staging yarn run ios",
+    "build-ios-production": "ENVFILE=.env.production yarn run ios",
+    "menu": "adb shell input keyevent KEYCODE_MENU"
+  },
+  "dependencies": {
+    "@react-native-firebase/analytics": "^6.2.0",
+    "@react-native-firebase/app": "^6.2.0",
+    "@react-native-firebase/database": "^6.2.0",
+    "axios": "^0.19.0",
+    "expo": "~36.0.0",
+    "react": "~16.9.0",
+    "react-addons-pure-render-mixin": "^15.6.2",
+    "react-dom": "~16.9.0",
+    "react-native": "~0.61.4",
+    "react-native-code-push": "^6.0.0",
+    "react-native-config": "^0.12.0",
+    "react-native-dash": "^0.0.11",
+    "react-native-device-info": "^5.4.1",
+    "react-native-gesture-handler": "~1.5.0",
+    "react-native-image-crop-picker": "^0.27.0",
+    "react-native-maps": "0.26.1",
+    "react-native-onesignal": "^3.6.3",
+    "react-native-paper": "^3.5.1",
+    "react-native-reanimated": "~1.4.0",
+    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-sms-retriever": "^1.1.1",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-unimodules": "~0.7.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.10.3"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.6.0",
+    "@types/react": "~16.9.0",
+    "@types/react-native": "~0.60.23",
+    "babel-preset-expo": "~8.0.0",
+    "jest-expo": "~36.0.1",
+    "typescript": "~3.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "resolutions": {
+    "@babel/runtime": "7.0.0-beta.46"
+  },
+  "private": true
+}
